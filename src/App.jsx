@@ -1,10 +1,10 @@
 // App.jsx 
 
 import { useState, useEffect } from "react"
-import tavleenBirds from "../public/tavleen-birds.jpg"
-import pixelConure from "../public/pixel-conure.png"
-import pixelCockatielWhite from "../public/pixel-cockatiel-white.png"
-import pixelFeather from "../public/pixel-feather.png"
+import tavleenBirds from "../tavleen-birds.jpg"
+import pixelConure from "../pixel-conure.png"
+import pixelCockatielWhite from "../pixel-cockatiel-white.png"
+import pixelFeather from "../pixel-feather.png"
 // -----------------------------------------------------------------------
 // LINKS DATA
 const links = [
